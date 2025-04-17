@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 sagemaker
 pandas
 numpy
@@ -6,7 +6,6 @@ scikit-learn
 ipykernel
 fsspec
 s3fs
-=======
 pandas
 numpy
 scikit-learn
@@ -17,4 +16,3 @@ s3fs
 Flask
 boto3
 pytest
->>>>>>> origin/master
